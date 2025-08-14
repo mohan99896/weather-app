@@ -1,4 +1,4 @@
-const API_KEY = "YOUR_API_KEY_HERE"; // Replace with your OpenWeather API key
+const API_KEY = "758cbcc662cf93aeb4653d7df7d70ff9"; // Replace with your OpenWeather API key
 const KELVIN = 273.15;
 
 const locationElement = document.getElementById("location");
